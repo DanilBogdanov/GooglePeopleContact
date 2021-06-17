@@ -1,0 +1,8 @@
+/src/resources/credentials.json
+/out/
+/.idea/
+
+
+/src/Test.java
+/GooglePeopleContact.iml
+/tokens/StoredCredential
